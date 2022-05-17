@@ -11,7 +11,7 @@ static QString message = "iNfOflag program is now running!";
 class flagResponse: public flagWords{
   private:
     //int flagGrade=0;
-    int flagGrade=flagGradeCalculator();
+    int flagGrade;
   public:
     //inherited constructor from flagWords class, as well as a message printing call
     flagResponse(QString filename):flagWords(filename){ qDebug()<<message<<"\n"; }
