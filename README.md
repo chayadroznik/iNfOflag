@@ -19,11 +19,12 @@ I built an application using QT Environment and C++ that will scan the informati
 See the app presentation: 
 
 # How to use the App
-# Download and install QT
+
+****Download and install QT
 
 First, you have to download QT Framework from their website: https://bit.ly/3osHUr8. Follow the instructions to install version 6.3.
 
-# Changes in the directory
+**** Changes in the directory
 
 Once QT is download and installed, open the ....
 
