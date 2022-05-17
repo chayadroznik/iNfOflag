@@ -10,6 +10,7 @@ bool flagResponse::operator==(flagResponse other){
 
 //function that prints the results of the flag scan, including the grade the scan recieved and how many flags were found
 string flagResponse:: resultPrinter(string userInput){
+  flagGrade=flagGradeCalculator();
   string SflagCount=to_string(getflagCount());
   string SflagGrade=to_string(flagGradeCalculator());
   if(flagGrade==0){
