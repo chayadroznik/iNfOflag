@@ -37,7 +37,9 @@ Then, you will need to download the code file from GitHub, and run it in QT.
 # Challenges
 
 The biggest challenge for me when creating this application was learning how to use QT environment. The syntax is different than C++, and I needed to learn how to integrate the code with QT's language. I was able to overcome this challenge successfully with the help and guidance of Professor Azhar and the student mentors. Using YouTube also helped me a lot when I was stuck, and I was able to successfully complete the application.
+
 The most essential part of my algorithm is the scanner that is used to check if there are flags in the text. It was a bit challenging to make the scan effective and accurate, but I was able to successfully build it by working with the mentors, using stack overflow and tracing my code a lot, and that helped me create the rest of the application in a much smoother manner.
+
 The time constraint was also a challenge, as it was quite difficult to create the app to the best of my ability, but I was able to complete it by applying myselfas much as I could and spending as much time as possible on it.
 
 
