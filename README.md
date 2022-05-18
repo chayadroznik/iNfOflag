@@ -22,7 +22,8 @@ See the app presentation:
 
 **Download and install QT
 
-First, you have to download QT Framework from their website: https://bit.ly/3osHUr8. Follow the instructions to install version 6.3..
+First, you have to download QT Framework from their website: https://bit.ly/3osHUr8. Follow the instructions to install version 6.3.
+Then, you will need to download the code file from GitHub, and run it in QT.
 
 
 # Algorithm of iNfOflag 
