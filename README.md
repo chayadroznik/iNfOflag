@@ -40,7 +40,7 @@ The biggest challenge for me when creating this application was learning how to 
 
 The most essential part of my algorithm is the scanner that is used to check if there are flags in the text. It was a bit challenging to make the scan effective and accurate, but I was able to successfully build it by working with the mentors, using stack overflow and tracing my code a lot, and that helped me create the rest of the application in a much smoother manner.
 
-The time constraint was also a challenge, as it was quite difficult to create the app to the best of my ability, but I was able to complete it by applying myselfas much as I could and spending as much time as possible on it.
+The time constraint was also a challenge, as it was quite difficult to create the app to the best of my ability, but I was able to complete it by applying myself as much as I could and spending as much time as possible on it.
 
 
 # Accomplishments:
